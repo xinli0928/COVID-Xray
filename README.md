@@ -9,7 +9,7 @@ Dataset
 
 Transfer Learning
 ----
-
+![](readme/transfer_learning.PNG)
 
 Dependencies
 -----
