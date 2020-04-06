@@ -21,7 +21,7 @@ Longitudinal XCR images of a patient over the four time points.
 
 Models
 ----
-The model weights are available here.  
+The model weights are available [here](https://drive.google.com/drive/folders/1AUtsxjPNVJiTboFFTzzqyeCKBPvMxbII?usp=sharing).  
 You can test your own image by:
 ```
 python testing.py --image <X-ray path>
