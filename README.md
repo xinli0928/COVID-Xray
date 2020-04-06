@@ -29,7 +29,7 @@ Thumbnail of generated heatmaps
 
 Dependencies
 -----
-* Item 1
-* Item 2
+* Python 3.7
+* Pytorch 0.4.0
 
 
