@@ -15,6 +15,17 @@ Models
 ----
 The model weights can be download at...
 
+
+
+
+Thumbnail of generated heatmaps
+-----
+![](readme/heatmap.PNG)
+
+
+
+
 Dependencies
 -----
+
 
