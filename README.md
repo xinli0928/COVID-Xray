@@ -12,6 +12,13 @@ Transfer Learning
 ----
 ![](readme/transfer_learning.PNG)
 
+Some Results
+----
+Longitudinal XCR images of a patient over the four time points.  
+![](readme/one_paitent.PNG)
+
+
+
 Models
 ----
 The model weights are available here.  
