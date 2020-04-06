@@ -4,7 +4,7 @@ This repository is a PyTorch implementation of the paper "COVID-SCREENNET: AN AI
 
 Dataset
 -----
-The COVID cases are available here
+The COVID cases are available here \\
 The normal and pneumonia cases are available here
 
 
