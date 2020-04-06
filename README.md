@@ -4,8 +4,7 @@ This repository is a PyTorch implementation of the paper "COVID-SCREENNET: AN AI
 
 Dataset
 -----
-The COVID cases are available here \\
-The normal and pneumonia cases are available here
+The COVID cases are available [here](https://github.com/ieee8023/covid-chestxray-dataset).  The normal and pneumonia cases are available [here](https://www.kaggle.com/c/rsna-pneumonia-detection-challenge).
 
 
 Transfer Learning
