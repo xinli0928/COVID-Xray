@@ -4,7 +4,8 @@ This repository is a PyTorch implementation of the paper "COVID-SCREENNET: AN AI
 
 Dataset
 -----
-
+The COVID cases are available here
+The normal and pneumonia cases are available here
 
 
 Transfer Learning
@@ -13,8 +14,8 @@ Transfer Learning
 
 Models
 ----
-The model weights can be download at...
-
+The model weights are available here.
+You can test your own image by:
 
 
 
