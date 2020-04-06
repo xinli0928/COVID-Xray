@@ -29,5 +29,7 @@ Thumbnail of generated heatmaps
 
 Dependencies
 -----
+* Item 1
+* Item 2
 
 
