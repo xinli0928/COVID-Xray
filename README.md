@@ -14,10 +14,11 @@ Transfer Learning
 
 Models
 ----
-The model weights are available here.
+The model weights are available here.  
 You can test your own image by:
-
-
+```
+python testing.py --image <X-ray path>
+```
 
 Thumbnail of generated heatmaps
 -----
