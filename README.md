@@ -15,7 +15,7 @@ Transfer Learning
 Some Results
 ----
 Longitudinal XCR images of a patient over the four time points.  
-![](readme/one_paitent.PNG)
+![](readme/one_patient.PNG)
 
 
 
