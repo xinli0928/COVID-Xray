@@ -4,7 +4,7 @@ This repository is a PyTorch implementation of the paper "COVID-SCREENNET: AN AI
 
 Dataset
 -----
-The ChestXray8 cases are availabel [here](https://nihcc.app.box.com/v/ChestXray-NIHCC)
+The ChestXray8 cases are availabel [here](https://nihcc.app.box.com/v/ChestXray-NIHCC).  
 The COVID cases are available [here](https://github.com/ieee8023/covid-chestxray-dataset).  
 The normal and pneumonia cases are available [here](https://www.kaggle.com/c/rsna-pneumonia-detection-challenge).
 
