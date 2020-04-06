@@ -11,6 +11,10 @@ Transfer Learning
 ----
 ![](readme/transfer_learning.PNG)
 
+Models
+----
+The model weights can be download at...
+
 Dependencies
 -----
 
