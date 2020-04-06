@@ -28,7 +28,7 @@ You can test your own image by:
 python testing.py --image <X-ray path>
 ```
 
-Thumbnail of generated heatmaps
+Thumbnail of Generated Heatmaps
 -----
 ![](readme/heatmap.PNG)
 
