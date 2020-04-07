@@ -4,11 +4,11 @@ This repository is a PyTorch implementation of the paper "COVID-Xpert: An AI Pow
 
 Dataset
 -----
-* Pre-trained Dataset
+* Pre-training Dataset
   * [ChestX-ray8: Hospital-scale Chest X-ray Database and Benchmarks on Weakly-Supervised Classification and Localization of Common Thorax Diseases.](https://nihcc.app.box.com/v/ChestXray-NIHCC)  
-* [COVID-19 Image Data Collection.](https://github.com/ieee8023/covid-chestxray-dataset)  
-* [RSNA Pneumonia Detection Challenge.](https://www.kaggle.com/c/rsna-pneumonia-detection-challenge)  
-
+* Fine Tuning Dataset
+  * [COVID-19 Image Data Collection.](https://github.com/ieee8023/covid-chestxray-dataset)  
+  * [RSNA Pneumonia Detection Challenge.](https://www.kaggle.com/c/rsna-pneumonia-detection-challenge)  
 
 COVID-Xpert Architecture
 ----
