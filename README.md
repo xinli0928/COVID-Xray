@@ -9,7 +9,10 @@ Dataset
 * Fine Tuning Dataset
   * [COVID-19 Image Data Collection.](https://github.com/ieee8023/covid-chestxray-dataset)  
   * [RSNA Pneumonia Detection Challenge.](https://www.kaggle.com/c/rsna-pneumonia-detection-challenge)  
-
+* Compiled Dataset 
+  * training/validation/testing: 120:20:45
+  
+  
 COVID-Xpert Architecture
 ----
 ![](readme/transfer_learning.PNG)
