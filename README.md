@@ -9,7 +9,7 @@ Dataset
 * Fine-Tuning Dataset
   * [COVID-19 Image Data Collection.](https://github.com/ieee8023/covid-chestxray-dataset)  
   * [RSNA Pneumonia Detection Challenge.](https://www.kaggle.com/c/rsna-pneumonia-detection-challenge)  
-* Compiled Dataset Split: training/validation/testing: 120/20/45 images for each class.
+* Compiled Dataset Split: training/validation/testing sets with 120/20/45 images for each class.
   
   
 COVID-Xpert Architecture
