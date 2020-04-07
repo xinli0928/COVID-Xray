@@ -1,6 +1,6 @@
 Overview
 ----
-This repository is a PyTorch implementation of the paper "COVID-SCREENNET: AN AI POWERED POPULATION SCREENING OF COVID-19 CASES USING CHEST RADIOGRAPHY IMAGES".
+This repository is a PyTorch implementation of the paper "COVID-Xpert: An AI Powered Population Screening of COVID-19 Cases Using Chest Radiography Images".
 
 Dataset
 -----
