@@ -42,6 +42,6 @@ Thumbnail of Generated Heatmaps
 Dependencies
 -----
 * Python 3.7
-* Pytorch 0.4.0
+* Pytorch 0.4.0+
 
 
