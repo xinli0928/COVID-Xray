@@ -48,7 +48,7 @@ Citation
 ------
 ```
 Xin Li and Dongxiao Zhu
-COVID-Xpert: An AI Powered Population Screening of COVID-19 Cases Using Chest Radiography Images,	arXiv:2004.03042, 2020
+COVID-Xpert: An AI Powered Population Screening of COVID-19 Cases Using Chest Radiography Images
 https://github.com/xinli0928/COVID-Xray/edit/master/README.md
 ```
 ```
