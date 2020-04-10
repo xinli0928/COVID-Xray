@@ -43,3 +43,16 @@ Dependencies
 -----
 * Python 3.7
 * Pytorch 0.4.0+
+
+Citation
+------
+```
+@misc{li2020covidxpert,
+    title={COVID-Xpert: An AI Powered Population Screening of COVID-19 Cases Using Chest Radiography Images},
+    author={Xin Li and Dongxiao Zhu},
+    year={2020},
+    eprint={2004.03042},
+    archivePrefix={arXiv},
+    primaryClass={eess.IV}
+}
+```
