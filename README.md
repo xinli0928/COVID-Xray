@@ -55,7 +55,7 @@ Evaluation of COVID-19 Screening Performance using both CXR Images and Noisy Sna
 Visualizations
 --------
 Low-dimension visualization of the three classes of CXR images and noisy snapshots using T-SNE.
-<p><img src="readme/tsne.PNG" alt="test" height="480"></p>
+<p><img src="readme/tsne.PNG" alt="test" width="600"></p>
 
 
 
