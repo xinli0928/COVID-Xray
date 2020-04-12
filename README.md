@@ -31,10 +31,20 @@ Model Training and Evaluation
 Training and testing codes and learned model parameters are available in the Main folder. Here are the steps:
 * Put the CXR images in the Dataset folder as the following structure:
   * Dataset
-    * Dataset
-
-
-* Download the pre-trained model for .
+    * train
+      * clean
+      * covid
+      * pneumonia
+    * test
+      * clean
+      * covid
+      * pneumonia
+    * validation
+      * clean
+      * covid
+      * pneumonia
+* Download the pre-trained model [here] and save it into Teacher_model folder.
+* Run the .ipynb file for training and testing.
 
 
 
@@ -42,7 +52,7 @@ On-device Deployment of the COVID-MobileXpert
 ------
 <p><img src="readme/deployment.png"  align="middle" alt="test" width="800"></p>
 
-We provide the source code for deployment with [Pytorch Mobile](https://pytorch.org/mobile/home/) and [Android Studio](https://developer.android.com/studio), which is developed based on this [repository](https://github.com/johnolafenwa/PytorchMobile). The source code contains an example model, if you want to deploy other models, here are the steps:
+We provide the source code for deployment with [Pytorch Mobile](https://drive.google.com/file/d/1lgaGtAfdnjnziHSZ0TaYKisYGjwLxebU/view?usp=sharing) and [Android Studio](https://developer.android.com/studio), which is developed based on this [repository](https://github.com/johnolafenwa/PytorchMobile). The source code contains an example model, if you want to deploy other models, here are the steps:
 * Download the pre-trained models.
 * Use the script "TorchScript_converter.py" to convert the model to TorchScript (.pt).
 * Put the model under "src/main/assets" folder
