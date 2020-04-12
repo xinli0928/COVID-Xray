@@ -66,13 +66,6 @@ Longitudinal XCR images of a patient over the four time points.
 
 
 
-
-;Thumbnail of Generated Heatmaps
-;-----
-;<p><img src="readme/heatmap.PNG" alt="test" height="400"></p>
-
-
-
 Dependencies
 -----
 * Python 3.7
