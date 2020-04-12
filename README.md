@@ -21,15 +21,9 @@ Here is one example:
 
 
 
-COVID-MobileXpert Architecture with three-player KTD training
+COVID-MobileXpert Architecture with Three-player KTD Training
 ----
 ![](covid-mobileXpert.png)
-
-
-On-device deployment of the COVID-MobileXpert
-------
-![](readme/deployment.png)
-
 
 Model Training and Evaluation
 ----
@@ -38,6 +32,14 @@ You can test your own image by:
 ```
 python testing.py --image <X-ray path>
 ```
+
+
+On-device Deployment of the COVID-MobileXpert
+------
+![](readme/deployment.png)
+
+
+
 
 Android Deployment
 -------
