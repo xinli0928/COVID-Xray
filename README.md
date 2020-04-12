@@ -1,9 +1,3 @@
-var md = require('markdown-it')({
-  html: true,
-  linkify: true,
-  typography: true
-}).use(require('markdown-it-imsize')); // <-- this use(package_name) is required
-
 Overview
 ----
 This repository is a PyTorch implementation of the paper "[COVID-MobileXpert: On-Device COVID-19
