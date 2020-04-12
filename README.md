@@ -38,7 +38,7 @@ On-device Deployment of the COVID-MobileXpert
 ------
 <p><img src="readme/deployment.png"  align="middle" alt="test" height="400"></p>
 
-We provide the source code for deployment with [Pytorch Mobile](https://pytorch.org/mobile/home/) and [Android Studio](https://developer.android.com/studio). The source code is built based on this [repository](https://github.com/johnolafenwa/PytorchMobile). The source code contains an example model, if you want to build with other models, here are the steps:
+We provide the source code for deployment with [Pytorch Mobile](https://pytorch.org/mobile/home/) and [Android Studio](https://developer.android.com/studio), which is developed based on this [repository](https://github.com/johnolafenwa/PytorchMobile). The source code folder contains an example model, if you want to deploy other models, here are the steps:
 * Download the pre-trained models.
 * Use the script "TorchScript_converter.py" to convert the model to TorchScript (.pt).
 * Put the model under "src/main/assets" folder
