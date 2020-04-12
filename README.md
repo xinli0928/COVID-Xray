@@ -50,8 +50,7 @@ python testing.py --image <X-ray path>
 
 Thumbnail of Generated Heatmaps
 -----
-![](readme/heatmap.PNG)
-
+<p><img src="readme/heatmap.PNG" alt="test" height="400"></p>
 
 
 
