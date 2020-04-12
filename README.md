@@ -23,7 +23,7 @@ Here is one example:
 
 COVID-MobileXpert Architecture with Three-player KTD Training
 ----
-<p><img src="covid-mobileXpert.png" alt="test" height="400"></p>
+<p><img src="covid-mobileXpert.png" alt="test" height="450"></p>
 
 
 Model Training and Evaluation
