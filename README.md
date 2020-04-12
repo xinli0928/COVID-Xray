@@ -31,39 +31,21 @@ Model Training and Evaluation
 Codes and learned model parameters are available in the Main folder. Here are the steps for training and testing:
 * Put the CXR images in the Dataset folder as the following structure:
 
-```
-project
-│   README.md
-│   file001.txt    
-│
-└───folder1
-│   │   file011.txt
-│   │   file012.txt
-│   │
-│   └───subfolder1
-│       │   file111.txt
-│       │   file112.txt
-│       │   ...
-│   
-└───folder2
-    │   file021.txt
-    │   file022.txt
-```
 
 ```
-  * Dataset
-    * train
-      * clean
-      * covid
-      * pneumonia
-    * test
-      * clean
-      * covid
-      * pneumonia
-    * validation
-      * clean
-      * covid
-      * pneumonia
+Dataset
+   train
+      clean
+      covid
+      pneumonia
+   test
+     clean
+     covid
+     pneumonia
+   validation
+     clean
+     covid
+     pneumonia
 ```
 * Download the pre-trained model [here](https://drive.google.com/file/d/1lgaGtAfdnjnziHSZ0TaYKisYGjwLxebU/view?usp=sharing) and save it into Teacher_model folder.
 * Run the .ipynb file for training and testing.
