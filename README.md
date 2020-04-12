@@ -10,9 +10,14 @@ Dataset
 * Fine-Tuning Dataset
   * [COVID-19 Image Data Collection.](https://github.com/ieee8023/covid-chestxray-dataset)  
   * [RSNA Pneumonia Detection Challenge.](https://www.kaggle.com/c/rsna-pneumonia-detection-challenge)  
-* Compiled dataset is split into training/validation/testing sets with 120/20/45 images for each class.
-  
-  
+* Compiled dataset is split into training/validation/testing sets with 125/18/36 images for each class.
+* Snapshots Dataset
+  * We first display the CXR image on PC screen and then use Microsoft Office Lens to scan and save the snapshot.
+  * Here are one example:
+  ![](data_generation.PNG)
+
+
+
 COVID-MobileXpert Architecture with three-player KTD training
 ----
 ![](covid-mobileXpert.png)
