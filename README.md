@@ -37,7 +37,7 @@ python testing.py --image <X-ray path>
 
 On-device Deployment of the COVID-MobileXpert
 ------
-<p><img src="readme/deployment.png" alt="test" height="400"></p>
+<p><img src="readme/deployment.png" alt="test" height="300"></p>
 
 
 
@@ -50,7 +50,7 @@ We provide the source code for deployment with Pytorch Mobile. The source code i
 Some Results
 ----
 Evaluation of COVID-19 Screening Performance using both CXR Images and Noisy Snapshots
-<p><img src="readme/AUROCs.PNG" alt="test" height="400"></p>
+<p><img src="readme/AUROCs.PNG" alt="test" height="500"></p>
 
 
 Visualizations
