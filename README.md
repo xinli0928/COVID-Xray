@@ -49,6 +49,9 @@ We provide the source code for deployment with Pytorch Mobile. The source code i
 
 Some Results
 ----
+Evaluation of COVID-19 Screening Performance using both CXR Images and Noisy Snapshots
+![](readme/AUROCs.PNG)
+
 Longitudinal XCR images of a patient over the four time points.  
 
 ![](readme/one_patient.PNG)
