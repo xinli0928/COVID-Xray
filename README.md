@@ -23,7 +23,7 @@ CXR image from CXR image dataset has a noisy snapshot counterpart, Here is one e
 
 COVID-MobileXpert Architecture with Three-player KTD Training
 ----
-<p><img src="readme/covid-mobileXpert.png" alt="test" height="450"></p>
+<p><img src="readme/covid-mobileXpert.png" alt="test" width="800"></p>
 
 
 Model Training and Evaluation
@@ -37,7 +37,7 @@ python testing.py --image <X-ray path>
 
 On-device Deployment of the COVID-MobileXpert
 ------
-<p><img src="readme/deployment.png"  align="middle" alt="test" height="400"></p>
+<p><img src="readme/deployment.png"  align="middle" alt="test" width="800"></p>
 
 We provide the source code for deployment with [Pytorch Mobile](https://pytorch.org/mobile/home/) and [Android Studio](https://developer.android.com/studio), which is developed based on this [repository](https://github.com/johnolafenwa/PytorchMobile). The source code folder contains an example model, if you want to deploy other models, here are the steps:
 * Download the pre-trained models.
@@ -49,19 +49,19 @@ We provide the source code for deployment with [Pytorch Mobile](https://pytorch.
 Results
 ----
 Evaluation of COVID-19 Screening Performance using both CXR Images and Noisy Snapshots.
-<p><img src="readme/AUROCs.PNG" alt="test" height="500"></p>
+<p><img src="readme/AUROCs.PNG" alt="test" width="800"></p>
 
 
 Visualizations
 --------
 Low-dimension visualization of the three classes of CXR images and noisy snapshots using T-SNE.
-<p><img src="readme/tsne.PNG" alt="test" width="600"></p>
+<p><img src="readme/tsne.PNG" alt="test" width="800"></p>
 
 
 
 Longitudinal CXR images of a patient over the four time points with the worst status on the day 17 then recovered afterwards. The heatmaps are generated using GRAD-CAM.
 
-<p><img src="readme/one_patient.PNG" alt="test" height="300"></p>
+<p><img src="readme/one_patient.PNG" alt="test" width="800"></p>
 
 
 
