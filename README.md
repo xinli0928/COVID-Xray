@@ -37,7 +37,7 @@ python testing.py --image <X-ray path>
 
 On-device Deployment of the COVID-MobileXpert
 ------
-<p><img src="readme/deployment.png"  align="middle" alt="test" height="300"></p>
+<p><img src="readme/deployment.png"  align="middle" alt="test" height="400"></p>
 
 
 
