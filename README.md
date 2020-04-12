@@ -31,7 +31,7 @@ On-device deployment of the COVID-MobileXpert
 ![](readme/deployment.png)
 
 
-Model and Evaluation
+Model Training and Evaluation
 ----
 The model weights are available [here](https://drive.google.com/drive/folders/1AUtsxjPNVJiTboFFTzzqyeCKBPvMxbII?usp=sharing).  
 You can test your own image by:
