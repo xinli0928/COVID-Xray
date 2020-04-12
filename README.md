@@ -28,7 +28,7 @@ COVID-MobileXpert Architecture with three-player KTD training
 
 On-device deployment of the COVID-MobileXpert
 ------
-![](deployment.png)
+![](readme/deployment.png)
 
 
 
