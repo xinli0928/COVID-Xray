@@ -51,24 +51,6 @@ Results
 Evaluation of COVID-19 Screening Performance using both CXR Images and Noisy Snapshots.
 <p><img src="readme/AUROCs.PNG" alt="test" width="800"></p>
 
-
-Visualizations
---------
-Low-dimension visualization of the three classes of CXR images and noisy snapshots using T-SNE.
-<p><img src="readme/tsne.PNG" alt="test" width="800"></p>
-
-
-
-Longitudinal CXR images of a patient over the four time points with the worst status on the day 17 then recovered afterwards. The heatmaps are generated using GRAD-CAM.
-
-<p><img src="readme/one_patient.PNG" alt="test" width="800"></p>
-
-
-
-
-
-
-
 Dependencies
 -----
 * Python 3.7
