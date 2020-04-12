@@ -23,7 +23,7 @@ Here is one example:
 
 COVID-MobileXpert Architecture with Three-player KTD Training
 ----
-<p><img src="covid-mobileXpert.png" alt="test" height="200"></p>
+<p><img src="covid-mobileXpert.png" alt="test" height="400"></p>
 
 
 Model Training and Evaluation
@@ -37,8 +37,7 @@ python testing.py --image <X-ray path>
 
 On-device Deployment of the COVID-MobileXpert
 ------
-![](readme/deployment.png)
-
+<p><img src="readme/deployment.png" alt="test" height="400"></p>
 
 
 
@@ -51,7 +50,7 @@ We provide the source code for deployment with Pytorch Mobile. The source code i
 Some Results
 ----
 Evaluation of COVID-19 Screening Performance using both CXR Images and Noisy Snapshots
-![](readme/AUROCs.PNG)
+<p><img src="readme/AUROCs.PNG" alt="test" height="400"></p>
 
 
 Visualizations
