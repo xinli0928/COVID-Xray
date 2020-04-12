@@ -56,7 +56,7 @@ Evaluation of COVID-19 Screening Performance using both CXR Images and Noisy Sna
 Visualizations
 --------
 
-Longitudinal CXR images of a patient over the four time points. The worst status on the day 17 then recovered afterwards. The heatmaps are generated using GRAD-CAM.
+Longitudinal CXR images of a patient over the four time points with the worst status on the day 17 then recovered afterwards. The heatmaps are generated using GRAD-CAM.
 
 <p><img src="readme/one_patient.PNG" alt="test" height="300"></p>
 
