@@ -3,7 +3,7 @@ Overview
 This repository is a PyTorch implementation of the paper "[COVID-MobileXpert: On-Device COVID-19
 Screening using Snapshots of Chest X-Ray](https://arxiv.org/abs/2004.03042)".
 
-Dataset
+CXR Images Dataset
 -----
 * Pre-training Dataset
   * [ChestX-ray8: Hospital-scale Chest X-ray Database and Benchmarks on Weakly-Supervised Classification and Localization of Common Thorax Diseases.](https://nihcc.app.box.com/v/ChestXray-NIHCC)  
@@ -11,10 +11,10 @@ Dataset
   * [COVID-19 Image Data Collection.](https://github.com/ieee8023/covid-chestxray-dataset)  
   * [RSNA Pneumonia Detection Challenge.](https://www.kaggle.com/c/rsna-pneumonia-detection-challenge)  
 * Compiled dataset is split into training/validation/testing sets with 125/18/36 images for each class.
-* Snapshots Dataset
-  * We first display the CXR image on PC screen and then use Microsoft Office Lens to scan and save the snapshot.
-  * Here is one example:
-![](data_generation.png)
+
+Snapshots Dataset
+------
+![](data_generation.PNG)
 
 
 
