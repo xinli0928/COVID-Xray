@@ -22,7 +22,7 @@ We first display the CXR image on PC screen and then use "Microsoft Office Lens"
 
 COVID-MobileXpert Architecture with Three-player KTD Training
 ----
-<p><img src="covid-mobileXpert.png" alt="test" height="450"></p>
+<p><img src="readme/covid-mobileXpert.png" alt="test" height="450"></p>
 
 
 Model Training and Evaluation
