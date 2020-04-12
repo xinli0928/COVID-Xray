@@ -28,7 +28,7 @@ COVID-MobileXpert Architecture with Three-player KTD Training
 
 Model Training and Evaluation
 ----
-Training and testing codes and learned model parameters are available in the Main folder. Here are the steps:
+Codes and learned model parameters are available in the Main folder. Here are the steps for training and testing:
 * Put the CXR images in the Dataset folder as the following structure:
   * Dataset
     * train
