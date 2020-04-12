@@ -31,16 +31,7 @@ On-device deployment of the COVID-MobileXpert
 ![](readme/deployment.png)
 
 
-
-Some Results
-----
-Longitudinal XCR images of a patient over the four time points.  
-
-![](readme/one_patient.PNG)
-
-
-
-Models
+Model and Evaluation
 ----
 The model weights are available [here](https://drive.google.com/drive/folders/1AUtsxjPNVJiTboFFTzzqyeCKBPvMxbII?usp=sharing).  
 You can test your own image by:
@@ -51,6 +42,18 @@ python testing.py --image <X-ray path>
 Android Deployment
 -------
 We provide the source code for deployment with Pytorch Mobile. The source code is built based on this [repository](https://github.com/johnolafenwa/PytorchMobile).
+
+
+
+Some Results
+----
+Longitudinal XCR images of a patient over the four time points.  
+
+![](readme/one_patient.PNG)
+
+
+
+
 
 
 
