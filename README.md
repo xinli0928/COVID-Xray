@@ -38,10 +38,6 @@ On-device Deployment of the COVID-MobileXpert
 ------
 <p><img src="readme/deployment.png"  align="middle" alt="test" height="400"></p>
 
-
-
-Android Deployment
--------
 We provide the source code for deployment with [Pytorch Mobile](https://pytorch.org/mobile/home/) and [Android Studio](https://developer.android.com/studio). The source code is built based on this [repository](https://github.com/johnolafenwa/PytorchMobile). The source code contains an example model, if you want to build with other models, here are the steps:
 * Download the pre-trained models.
 * Use the script "TorchScript_converter.py" to convert the model to TorchScript (.pt).
@@ -49,9 +45,9 @@ We provide the source code for deployment with [Pytorch Mobile](https://pytorch.
 * Change the path in 'MainActivity.java' to the current .pt file.
 * Build and test.
 
-Some Results
+Results
 ----
-Evaluation of COVID-19 Screening Performance using both CXR Images and Noisy Snapshots
+Evaluation of COVID-19 Screening Performance using both CXR Images and Noisy Snapshots.
 <p><img src="readme/AUROCs.PNG" alt="test" height="500"></p>
 
 
