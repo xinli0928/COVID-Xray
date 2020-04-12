@@ -30,6 +30,26 @@ Model Training and Evaluation
 ----
 Codes and learned model parameters are available in the Main folder. Here are the steps for training and testing:
 * Put the CXR images in the Dataset folder as the following structure:
+
+.
++-- _config.yml
++-- _drafts
+|   +-- begin-with-the-crazy-ideas.textile
+|   +-- on-simplicity-in-technology.markdown
++-- _includes
+|   +-- footer.html
+|   +-- header.html
++-- _layouts
+|   +-- default.html
+|   +-- post.html
++-- _posts
+|   +-- 2007-10-29-why-every-programmer-should-play-nethack.textile
+|   +-- 2009-04-26-barcamp-boston-4-roundup.textile
++-- _data
+|   +-- members.yml
++-- _site
++-- index.html
+
   * Dataset
     * train
       * clean
@@ -46,6 +66,7 @@ Codes and learned model parameters are available in the Main folder. Here are th
 * Download the pre-trained model [here](https://drive.google.com/file/d/1lgaGtAfdnjnziHSZ0TaYKisYGjwLxebU/view?usp=sharing) and save it into Teacher_model folder.
 * Run the .ipynb file for training and testing.
 
+To  
 
 
 On-device Deployment of the COVID-MobileXpert
