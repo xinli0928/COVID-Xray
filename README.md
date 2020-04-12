@@ -25,6 +25,13 @@ COVID-MobileXpert Architecture with three-player KTD training
 ----
 ![](covid-mobileXpert.png)
 
+
+On-device deployment of the COVID-MobileXpert
+------
+![](deployment.png)
+
+
+
 Some Results
 ----
 Longitudinal XCR images of a patient over the four time points.  
