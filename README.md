@@ -50,7 +50,7 @@ python testing.py --image <X-ray path>
 
 Android Deployment
 -------
-We provide the source code for deployment with Pytorch Mobile. The source code is modified based on this [repository](https://github.com/johnolafenwa/PytorchMobile).
+We provide the source code for deployment with Pytorch Mobile. The source code is built based on this [repository](https://github.com/johnolafenwa/PytorchMobile).
 
 
 
