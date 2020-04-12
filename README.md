@@ -78,9 +78,10 @@ Citation
 ------
 ```
 Xin Li, Chengyin Li and Dongxiao Zhu
-COVID-MobileXpert: On-Device COVID-19 Screening using Snapshots of Chest X-Ray  
+COVID-MobileXpert: On-Device COVID-19 Screening using Snapshots of Chest X-Ray, arXiv:2004.03042, 2020  
 https://github.com/xinli0928/COVID-Xray
 ```
+
 ```
 @misc{li2020covidxpert,
     title={COVID-MobileXpert: On-Device COVID-19 Screening using Snapshots of Chest X-Ray},
