@@ -48,6 +48,13 @@ You can test your own image by:
 python testing.py --image <X-ray path>
 ```
 
+Android Deployment
+-------
+We provide the source code for deployment with Pytorch Mobile. The code is modified based on this [repository](https://github.com/johnolafenwa/PytorchMobile).
+
+
+
+
 Thumbnail of Generated Heatmaps
 -----
 <p><img src="readme/heatmap.PNG" alt="test" height="400"></p>
