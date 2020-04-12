@@ -16,14 +16,15 @@ Snapshots Dataset
 ------
 We first display the CXR image on PC screen and then use "Microsoft Office Lens" to scan and save the snapshot. Noisy snapshots will be converted to 8-bit gray-scale images.  
 Here is one example:
-<p><img src="readme/data_generation.PNG" alt="test" height="300"></p>
+<p><img src="readme/data_generation.PNG" alt="test" height="200"></p>
 
 
 
 
 COVID-MobileXpert Architecture with Three-player KTD Training
 ----
-![](covid-mobileXpert.png)
+<p><img src="covid-mobileXpert.png" alt="test" height="200"></p>
+
 
 Model Training and Evaluation
 ----
