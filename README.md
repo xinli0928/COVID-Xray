@@ -13,9 +13,9 @@ Dataset
 * Compiled dataset is split into training/validation/testing sets with 120/20/45 images for each class.
   
   
-COVID-Xpert Architecture
+COVID-MobileXpert Architecture with three-player KTD training
 ----
-![](readme/transfer_learning.PNG)
+![](covid-mobileXpert.png)
 
 Some Results
 ----
