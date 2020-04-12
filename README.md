@@ -14,7 +14,9 @@ CXR Images Dataset
 
 Snapshots Dataset
 ------
-![](data_generation.PNG)
+* We first display the CXR image on PC screen and then use Microsoft Office Lens to scan and save the snapshot.
+  * Here is one example:
+  *![](readme/data_generation.PNG)
 
 
 
