@@ -13,8 +13,8 @@ Dataset
 * Compiled dataset is split into training/validation/testing sets with 125/18/36 images for each class.
 * Snapshots Dataset
   * We first display the CXR image on PC screen and then use Microsoft Office Lens to scan and save the snapshot.
-  * Here are one example:
-  ![](data_generation.PNG)
+  * Here is one example:
+![](data_generation.png)
 
 
 
