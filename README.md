@@ -52,9 +52,13 @@ Some Results
 Evaluation of COVID-19 Screening Performance using both CXR Images and Noisy Snapshots
 ![](readme/AUROCs.PNG)
 
+
+Visualizations
+--------
+
 Longitudinal XCR images of a patient over the four time points.  
 
-![](readme/one_patient.PNG)
+<p><img src="readme/one_patient.PNG" alt="test" height="300"></p>
 
 
 
