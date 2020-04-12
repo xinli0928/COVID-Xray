@@ -1,6 +1,7 @@
 Overview
 ----
-This repository is a PyTorch implementation of the paper "[COVID-Xpert: An AI Powered Population Screening of COVID-19 Cases Using Chest Radiography Images](https://arxiv.org/abs/2004.03042)".
+This repository is a PyTorch implementation of the paper "[COVID-MobileXpert: On-Device COVID-19
+Screening using Snapshots of Chest X-Ray](https://arxiv.org/abs/2004.03042)".
 
 Dataset
 -----
