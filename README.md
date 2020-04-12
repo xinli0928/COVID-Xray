@@ -28,11 +28,14 @@ COVID-MobileXpert Architecture with Three-player KTD Training
 
 Model Training and Evaluation
 ----
-The model weights are available [here](https://drive.google.com/drive/folders/1AUtsxjPNVJiTboFFTzzqyeCKBPvMxbII?usp=sharing).  
-You can test your own image by:
-```
-python testing.py --image <X-ray path>
-```
+Training and testing codes and learned model parameters are available in the Main folder. Here are the steps:
+* Put the CXR images in the Dataset folder as the following structure:
+  * Dataset
+    * Dataset
+
+
+* Download the pre-trained model for .
+
 
 
 On-device Deployment of the COVID-MobileXpert
