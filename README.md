@@ -62,9 +62,8 @@ Dependencies
 Citation
 ------
 ```
-Xin Li and Dongxiao Zhu
-COVID-Xpert: An AI Powered Population Screening of COVID-19 Cases Using Chest Radiography Images
-arXiv:2004.03042, 2020
+Xin Li, Chengyin Li and Dongxiao Zhu
+COVID-MobileXpert: On-Device COVID-19Screening using Snapshots of Chest X-Ray  
 https://github.com/xinli0928/COVID-Xray
 ```
 ```
