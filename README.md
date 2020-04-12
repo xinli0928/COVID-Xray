@@ -23,7 +23,7 @@ Here is one example:
 
 COVID-MobileXpert Architecture with Three-player KTD Training
 ----
-<p><img src="covid-mobileXpert.png" align="middle" alt="test" height="400"></p>
+<p><img src="covid-mobileXpert.png" alt="test" height="400"></p>
 
 
 Model Training and Evaluation
@@ -56,7 +56,7 @@ Evaluation of COVID-19 Screening Performance using both CXR Images and Noisy Sna
 Visualizations
 --------
 
-Longitudinal XCR images of a patient over the four time points.  
+Longitudinal CXR images of a patient over the four time points. The worst status on the day 17 then recovered afterwards. The heatmaps are generated using GRAD-CAM.
 
 <p><img src="readme/one_patient.PNG" alt="test" height="300"></p>
 
