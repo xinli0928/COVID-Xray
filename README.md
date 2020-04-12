@@ -54,6 +54,9 @@ Evaluation of COVID-19 Screening Performance using both CXR Images and Noisy Sna
 
 Visualizations
 --------
+Low-dimension visualization of the three classes of CXR images and noisy snapshots using T-SNE.
+
+
 
 Longitudinal CXR images of a patient over the four time points with the worst status on the day 17 then recovered afterwards. The heatmaps are generated using GRAD-CAM.
 
