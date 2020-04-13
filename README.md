@@ -69,7 +69,7 @@ Evaluation of COVID-19 Screening Performance using both CXR Images and Noisy Sna
 Dependencies
 -----
 * Python 3.7
-* Pytorch 1.4
+* Pytorch 1.3
 
 Citation
 ------
