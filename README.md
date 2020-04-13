@@ -34,26 +34,21 @@ Codes and learned model parameters are available in the Main folder. Here are th
 
 ```
 Dataset
-└───train
-    └───clean
-        covid
-        pneumonia
- 
-
+   train
+      clean
+      covid
+      pneumonia
    test
-     clean
-     covid
-     pneumonia
+      clean
+      covid
+      pneumonia
    validation
-     clean
-     covid
-     pneumonia
+      clean
+      covid
+      pneumonia
 ```
 * Download the pre-trained model [here](https://drive.google.com/file/d/1lgaGtAfdnjnziHSZ0TaYKisYGjwLxebU/view?usp=sharing) and save it into Teacher_model folder.
-* Run the .ipynb file for training and testing.
-
-To  
-
+* Run the .ipynb file for training and testing.  
 
 On-device Deployment of the COVID-MobileXpert
 ------
