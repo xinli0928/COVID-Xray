@@ -34,10 +34,12 @@ Codes and learned model parameters are available in the Main folder. Here are th
 
 ```
 Dataset
-   train
-      clean
-      covid
-      pneumonia
+└───train
+    └───clean
+        covid
+        pneumonia
+ 
+
    test
      clean
      covid
