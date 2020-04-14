@@ -3,7 +3,7 @@ Overview
 This repository is an implementation of the paper "[COVID-MobileXpert: On-Device COVID-19
 Screening using Snapshots of Chest X-Ray](https://arxiv.org/abs/2004.03042)".
 
-CXR Imaging Dataset
+CXR Imaging Datasets
 -----
 * Pre-training Data (108,948 CXR Images)
   * [ChestX-ray8: Hospital-scale Chest X-ray Database and Benchmarks on Weakly-Supervised Classification and Localization of Common Thorax Diseases.](https://nihcc.app.box.com/v/ChestXray-NIHCC)  
