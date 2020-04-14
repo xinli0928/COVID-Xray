@@ -5,9 +5,9 @@ Screening using Snapshots of Chest X-Ray](https://arxiv.org/abs/2004.03042)".
 
 CXR Images Dataset
 -----
-* Pre-training Dataset
+* Pre-training Data (108,948 CXR Images)
   * [ChestX-ray8: Hospital-scale Chest X-ray Database and Benchmarks on Weakly-Supervised Classification and Localization of Common Thorax Diseases.](https://nihcc.app.box.com/v/ChestXray-NIHCC)  
-* Fine-Tuning Dataset
+* Fine-Tuning Data
   * [COVID-19 Image Data Collection.](https://github.com/ieee8023/covid-chestxray-dataset)  
   * [RSNA Pneumonia Detection Challenge.](https://www.kaggle.com/c/rsna-pneumonia-detection-challenge)  
 * Compiled dataset is split into training/validation/testing sets with 125/18/36 images for each class.
