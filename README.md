@@ -10,7 +10,7 @@ CXR Imaging Dataset
 * Fine-Tuning Data (537 CXR Images)
   * [COVID-19 Image Data Collection.](https://github.com/ieee8023/covid-chestxray-dataset)  
   * [RSNA Pneumonia Detection Challenge.](https://www.kaggle.com/c/rsna-pneumonia-detection-challenge)  
-* Fine-tuning dataset is split into training/validation/testing sets with 125/18/36 images for each class.
+* Fine-tuning data is split into training/validation/testing sets with 125/18/36 images for each class.
 
 Snapshots Dataset
 ------
