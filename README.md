@@ -80,7 +80,7 @@ https://github.com/xinli0928/COVID-Xray
 ```
 
 ```
-@misc{li2020covidxpert,
+@misc{li2020covidmobilexpert,
     title={COVID-MobileXpert: On-Device COVID-19 Screening using Snapshots of Chest X-Ray},
     author={Xin Li and Chengyin Li and Dongxiao Zhu},
     year={2020},
