@@ -71,7 +71,7 @@ Demo
 ![github](Demo/CXR_Images_test.gif)
 ![github](Demo/Snapshots_test.gif)
 
-![](Demo/CXR_Images_test.mp4)
+![]("Demo/Snapshots_test.mp4")
 
 Dependencies
 -----
