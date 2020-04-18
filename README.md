@@ -68,7 +68,8 @@ Evaluation of COVID-19 Screening Performance using both CXR Images and Noisy Sna
 
 Demo
 ------
-![github](https://github.com/xinli0928/COVID-Xray/blob/master/Demo/Noisy-test.gif)
+
+
 Dependencies
 -----
 * Python 3.7
