@@ -1,3 +1,5 @@
+<script src="http://api.html5media.info/1.1.8/html5media.min.js"></script>
+
 Overview
 ----
 This repository is an implementation of the paper "[COVID-MobileXpert: On-Device COVID-19
