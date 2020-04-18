@@ -52,7 +52,8 @@ Dataset
 
 On-device Deployment of the COVID-MobileXpert
 ------
-<p><img src="readme/deployment.png"  align="middle" alt="test" width="800"></p>
+[<p><img src="readme/deployment.png"  align="middle" alt="test" width="800"></p>](https://www.youtube.com/watch?v=q3hONNn4UwM)
+
 
 We provide the source code for deployment with [Pytorch Mobile](https://drive.google.com/file/d/1lgaGtAfdnjnziHSZ0TaYKisYGjwLxebU/view?usp=sharing) and [Android Studio](https://developer.android.com/studio), which is developed based on this [repository](https://github.com/johnolafenwa/PytorchMobile). The source code contains an example model, if you want to deploy other models, here are the steps:
 * Download the pre-trained models.
@@ -70,7 +71,6 @@ Live demo
 ------
 ![github](Demo/CXR_Images_test.gif)
 ![github](Demo/Snapshots_test.gif)
-[![](data_generation.PNG)](https://www.youtube.com/watch?v=q3hONNn4UwM)
 
 
 Dependencies
