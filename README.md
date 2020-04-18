@@ -70,7 +70,8 @@ Live demo
 ------
 ![github](Demo/CXR_Images_test.gif)
 ![github](Demo/Snapshots_test.gif)
-<video src="https://vimeo.com/user113193556/review/409296958/e711809779" poster="readme/AUROCs.PNG" width="320" height="200" controls preload></video>
+[![](data_generation.PNG)](https://www.youtube.com/watch?v=q3hONNn4UwM)
+
 
 Dependencies
 -----
