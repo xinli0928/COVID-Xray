@@ -71,9 +71,7 @@ Demo
 ![github](Demo/CXR_Images_test.gif)
 ![github](Demo/Snapshots_test.gif)
 
-<video width="320" height="240" controls>
-  <source src="Demo/Snapshots_test.gif" type="video/mp4">
-</video>
+![](Demo/CXR_Images_test.mp4)
 
 Dependencies
 -----
