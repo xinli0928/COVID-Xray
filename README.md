@@ -70,6 +70,7 @@ Live demo
 ------
 ![github](Demo/CXR_Images_test.gif)
 ![github](Demo/Snapshots_test.gif)
+<video src="video.mp4" width="320" height="200" controls preload></video>
 
 Dependencies
 -----
