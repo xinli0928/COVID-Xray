@@ -68,7 +68,8 @@ Evaluation of COVID-19 Screening Performance using both CXR Images and Noisy Sna
 
 Demo
 ------
-
+![github]("Demo/CXR_Images_test.gif")
+![github]("Demo/Snapshots_test.gif")
 
 Dependencies
 -----
