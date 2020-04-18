@@ -71,8 +71,6 @@ Demo
 ![github](Demo/CXR_Images_test.gif)
 ![github](Demo/Snapshots_test.gif)
 
-![Snapshots_test](https://user-images.githubusercontent.com/25039696/79670256-a498b880-818f-11ea-8883-c955afe7f72e.gif)
-
 Dependencies
 -----
 * Python 3.7
