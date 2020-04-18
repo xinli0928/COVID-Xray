@@ -66,13 +66,6 @@ Results
 Evaluation of COVID-19 Screening Performance using both CXR Images and Noisy Snapshots.
 <p><img src="readme/AUROCs.PNG" alt="test" width="800"></p>
 
-Demo
-------
-CXR Images  
-
-![Image description](Demo/CXR_Images_test.mp4)
-
-
 
 Dependencies
 -----
