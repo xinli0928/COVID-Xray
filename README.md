@@ -71,7 +71,8 @@ Live demo
 [<img src="Demo/CXR_Images_test.PNG" width="300">](https://www.youtube.com/watch?v=zcU6x0nTlp0)
 [<img src="Demo/Snapshots_test.PNG" width="300">](https://www.youtube.com/watch?v=GWRhMH-N9Tc)
 
-
+{% include youtubePlayer.html id=page.zcU6x0nTlp0 %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zcU6x0nTlp0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Dependencies
 -----
