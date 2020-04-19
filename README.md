@@ -70,11 +70,7 @@ Live demo
 ------
 [<img src="Demo/CXR_Images_test.PNG" width="300">](https://www.youtube.com/watch?v=zcU6x0nTlp0)
 [<img src="Demo/Snapshots_test.PNG" width="300">](https://www.youtube.com/watch?v=GWRhMH-N9Tc)
-<video controls="controls">
-  <source type="video/mp4" src="filename.mp4"></source>
-  <source type="video/webm" src="filename.webm"></source>
-  <p>Your browser does not support the video element.</p>
-</video>
+
 Dependencies
 -----
 * Python 3.7
