@@ -71,6 +71,7 @@ Live demo
 [<img src="Demo/CXR_Images_test.PNG" width="300">](https://www.youtube.com/watch?v=zcU6x0nTlp0)
 [<img src="Demo/Snapshots_test.PNG" width="300">](https://www.youtube.com/watch?v=GWRhMH-N9Tc)
 
+<iframe src="//player.bilibili.com/player.html?aid=61537661&bvid=BV1mt411c7N9&cid=107033430&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 Dependencies
 -----
 * Python 3.7
