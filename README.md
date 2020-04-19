@@ -71,6 +71,14 @@ Live demo
 [<img src="Demo/CXR_Images_test.PNG" width="300">](https://www.youtube.com/watch?v=zcU6x0nTlp0)
 [<img src="Demo/Snapshots_test.PNG" width="300">](https://www.youtube.com/watch?v=GWRhMH-N9Tc)
 
+{% include youtubePlayer.html id="4EU7vvSvV-0" %}
+<iframe src="https://www.youtube.com/embed/{{ include.id }}" 
+    width="560" 
+    height="315"
+    frameborder="0" 
+    allowfullscreen>
+</iframe>
+
 Dependencies
 -----
 * Python 3.7
