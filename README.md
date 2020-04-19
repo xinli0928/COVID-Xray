@@ -71,6 +71,8 @@ Live demo
 [<img src="Demo/CXR_Images_test.PNG" width="300">](https://www.youtube.com/watch?v=zcU6x0nTlp0)
 [<img src="Demo/Snapshots_test.PNG" width="300">](https://www.youtube.com/watch?v=GWRhMH-N9Tc)
 
+[![](http://img.youtube.com/vi/zcU6x0nTlp0/0.jpg)](http://www.youtube.com/watch?v=zcU6x0nTlp0 "")
+
 Dependencies
 -----
 * Python 3.7
