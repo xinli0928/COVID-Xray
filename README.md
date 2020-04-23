@@ -73,6 +73,15 @@ Live demo
 
 Our Android App is available [here](https://drive.google.com/file/d/1yqNsVHkrrCoo_XYedOOqSUJRnzc0vjIB/view?usp=sharing). Please feel free to have a try.
 
+Here are the steps to test with your Android device.
+* Download and install our App [here](https://drive.google.com/file/d/1yqNsVHkrrCoo_XYedOOqSUJRnzc0vjIB/view?usp=sharing).
+* Download and install Microsoft Office Lens [here](https://play.google.com/store/apps/details?id=com.microsoft.office.officelen)
+* Display a CXR image on your screen (PACS system or PC).
+* Open Microsoft Office Lens and take a snapshot of the CXR image under the "DOCUMENT" mode (adjust border if needed).
+* Choose the "GRAYSCALE" filter and save the snapshot.
+* Follow the Live demo to load snapshot from gallery and make the prediction.
+* You can directly download the snapshot provided in "Test Cases for App" for testing.
+
 Dependencies
 -----
 * Python 3.7
