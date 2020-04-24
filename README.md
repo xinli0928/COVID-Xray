@@ -16,6 +16,14 @@ Here are the steps to test with your own CXR images:
 * Choose the "GRAYSCALE" filter and save the snapshot.
 * Open our App, load the snapshot from gallery and make the prediction.
 
+
+Live demo
+------
+[<img src="Demo/CXR_Images_test.PNG" width="300">](https://www.youtube.com/watch?v=zcU6x0nTlp0)
+[<img src="Demo/Snapshots_test.PNG" width="300">](https://www.youtube.com/watch?v=GWRhMH-N9Tc)
+
+
+
 CXR Imaging Datasets
 -----
 * Pre-training Data (108,948 CXR Images)
@@ -78,11 +86,6 @@ Results
 ----
 Evaluation of COVID-19 Screening Performance using both CXR Images and Noisy Snapshots.
 <p><img src="readme/AUROCs.PNG" alt="test" width="800"></p>
-
-Live demo
-------
-[<img src="Demo/CXR_Images_test.PNG" width="300">](https://www.youtube.com/watch?v=zcU6x0nTlp0)
-[<img src="Demo/Snapshots_test.PNG" width="300">](https://www.youtube.com/watch?v=GWRhMH-N9Tc)
 
 Dependencies
 -----
