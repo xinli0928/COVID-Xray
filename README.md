@@ -8,7 +8,7 @@ Android App
 -------
 Our Android App is available [here](https://drive.google.com/file/d/1yqNsVHkrrCoo_XYedOOqSUJRnzc0vjIB/view?usp=sharing). Please feel free to have a try. You can directly download the snapshots provided in "Test Cases for App" for testing (click on the "View code").
 
-Here are the steps to test with your own CXR images (click on the "View all of README.md" for details):
+Here are the steps to test with your own CXR images (click on the "View all of README.md"):
 * Download and install our App [here](https://drive.google.com/file/d/1yqNsVHkrrCoo_XYedOOqSUJRnzc0vjIB/view?usp=sharing).
 * Download and install Microsoft Office Lens [here](https://play.google.com/store/apps/details?id=com.microsoft.office.officelen).
 * Display a CXR image on your screen (PACS system or PC).
