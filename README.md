@@ -6,7 +6,7 @@ Screening using Snapshots of Chest X-Ray](https://arxiv.org/abs/2004.03042)".
 
 Android App
 -------
-Our Android App is available [here](https://drive.google.com/file/d/1yqNsVHkrrCoo_XYedOOqSUJRnzc0vjIB/view?usp=sharing). Please feel free to have a try. You can directly download the snapshots provided in "Test Cases for App" for testing.
+Our Android App is available [here](https://drive.google.com/file/d/1yqNsVHkrrCoo_XYedOOqSUJRnzc0vjIB/view?usp=sharing). Please feel free to have a try. You can directly download the snapshots provided in "Test Cases for App" (under "View code") for testing.
 
 Here are the steps to test with your own CXR images:
 * Download and install our App [here](https://drive.google.com/file/d/1yqNsVHkrrCoo_XYedOOqSUJRnzc0vjIB/view?usp=sharing).
