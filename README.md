@@ -14,8 +14,7 @@ Here are the steps to test with your own CXR images:
 * Display a CXR image on your screen (PACS system or PC).
 * Open Microsoft Office Lens and take a snapshot of the CXR image under the "DOCUMENT" mode (adjust border if needed).
 * Choose the "GRAYSCALE" filter and save the snapshot.
-* Follow the live demo to load the snapshot from gallery and make the prediction.
-
+* Open our App, load the snapshot from gallery and make the prediction.
 
 CXR Imaging Datasets
 -----
