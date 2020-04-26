@@ -1,7 +1,7 @@
 Overview
 ----
 This repository is an implementation of the paper "[COVID-MobileXpert: On-Device COVID-19
-Screening using Snapshots of Chest X-Ray](https://arxiv.org/abs/2004.03042)".
+Screening using Snapshots of Chest X-Ray](https://arxiv.org/pdf/2004.03042.pdf)".
 
 
 Android App
