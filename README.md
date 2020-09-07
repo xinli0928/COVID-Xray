@@ -44,7 +44,7 @@ Given a COVID-19 patient's CXR images over four time points (the maximum length 
 
 COVID-MobileXpert Architecture with Three-player KTD Training
 ----
-<p><img src="readme/covid-mobileXpert.png" alt="test" width="800"></p>
+<p><img src="readme/model.png" alt="test" width="800"></p>
 
 
 Model Training and Evaluation
@@ -73,7 +73,7 @@ Dataset
 
 On-device Deployment of the COVID-MobileXpert
 ------
-<p><img src="readme/deployment.png"  align="middle" alt="test" width="800"></p>
+<p><img src="readme/android.png"  align="middle" alt="test" width="800"></p>
 
 We provide the source code for deployment with [Pytorch Mobile](https://drive.google.com/file/d/1lgaGtAfdnjnziHSZ0TaYKisYGjwLxebU/view?usp=sharing) and [Android Studio](https://developer.android.com/studio), which is developed based on this [repository](https://github.com/johnolafenwa/PytorchMobile). The source code contains an example model, if you want to deploy other models, here are the steps:
 * Download the pre-trained models.
@@ -84,8 +84,8 @@ We provide the source code for deployment with [Pytorch Mobile](https://drive.go
 
 Results
 ----
-Evaluation of COVID-19 Screening Performance using both CXR Images and Noisy Snapshots.
-<p><img src="readme/AUROCs.PNG" alt="test" width="800"></p>
+Evaluation of COVID-19 Patient Triage and Follow-up Performance.
+<p><img src="readme/AUC.png" alt="test" width="800"></p>
 
 Dependencies
 -----
