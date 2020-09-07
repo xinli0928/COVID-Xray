@@ -1,7 +1,6 @@
 Overview
 ----
-This repository is an implementation of the paper "[COVID-MobileXpert: On-Device COVID-19
-Screening using Snapshots of Chest X-Ray](https://arxiv.org/pdf/2004.03042.pdf)".
+This repository is an implementation of the paper "[COVID-MobileXpert: On-Device COVID-19 Patient Triage and Follow-up using Chest X-rays](https://arxiv.org/pdf/2004.03042.pdf)".
 
 
 Android App
@@ -24,7 +23,7 @@ Live demo
 
 
 
-CXR Imaging Datasets
+Triage Datasets
 -----
 * Pre-training Data (108,948 CXR Images)
   * [ChestX-ray8: Hospital-scale Chest X-ray Database and Benchmarks on Weakly-Supervised Classification and Localization of Common Thorax Diseases.](https://nihcc.app.box.com/v/ChestXray-NIHCC)  
@@ -33,12 +32,13 @@ CXR Imaging Datasets
   * [RSNA Pneumonia Detection Challenge.](https://www.kaggle.com/c/rsna-pneumonia-detection-challenge)  
 * Fine-tuning data is split into training/validation/testing sets with 125/18/36 images for each class.
 
-Snapshots Dataset
+Follow-up Dataset
 ------
-To create a noisy snapshot dataset, we first display the original CXR image on a PC screen and then use Microsoft Office Lens to scan and save the snapshot. Noisy snapshots will be converted to 8-bit gray-scale images. Each clean
-CXR image from CXR image dataset has a noisy snapshot counterpart, Here is one example:
-<p><img src="readme/data_generation.PNG" alt="test" width="600"></p>
 
+we assign a opacity score $S$ for each COVID-19 positive CXR image in \cite{cohen2020covid} using the scoring system provided by this [paper.](https://arxiv.org/abs/2005.11856). The figure shows an example of how we generate CXR image sequences and assign corresponding radiological trajectory labels (i.e., "Worse", "Stable", "Improved"). 
+
+
+Given a COVID-19 patient's CXR images over four time points (the maximum length is set to four time points), we can create three CXR image sequences with zero-padding. For each sequence, we calculate the difference in the score of the last two CXR images. If the difference is larger than 0.3 the sequence is categorized as "Worse", if the difference is less than -0.3, it is labeled as "Improved", otherwise, the category is "Stable".
 
 
 
