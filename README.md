@@ -34,12 +34,9 @@ Triage Datasets
 
 Follow-up Dataset
 ------
+<p><img src="readme/label.png" alt="test" width="600"></p>
 
-we assign a opacity score $S$ for each COVID-19 positive CXR image in \cite{cohen2020covid} using the scoring system provided by this [paper.](https://arxiv.org/abs/2005.11856). The figure shows an example of how we generate CXR image sequences and assign corresponding radiological trajectory labels (i.e., "Worse", "Stable", "Improved"). 
-
-
-Given a COVID-19 patient's CXR images over four time points (the maximum length is set to four time points), we can create three CXR image sequences with zero-padding. For each sequence, we calculate the difference in the score of the last two CXR images. If the difference is larger than 0.3 the sequence is categorized as "Worse", if the difference is less than -0.3, it is labeled as "Improved", otherwise, the category is "Stable".
-
+we assign a opacity score $S$ for each COVID-19 positive CXR image in \cite{cohen2020covid} using the scoring system provided by this [paper](https://arxiv.org/abs/2005.11856). The figure shows an example of how we generate CXR image sequences and assign corresponding radiological trajectory labels (i.e., "Worse", "Stable", "Improved"). We collect a total of 159 CXT image squences, the data is split it into training/validation/testing sets with 111/16/32 samples.
 
 
 COVID-MobileXpert Architecture with Three-player KTD Training
