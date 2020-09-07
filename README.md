@@ -44,7 +44,7 @@ Given a COVID-19 patient's CXR images over four time points (the maximum length 
 
 COVID-MobileXpert Architecture with Three-player KTD Training
 ----
-<p><img src="readme/model.png" alt="test" width="800"></p>
+<p><img src="readme/model.png" alt="test" width="850"></p>
 
 
 Model Training and Evaluation
@@ -96,13 +96,13 @@ Citation
 ------
 ```
 Xin Li, Chengyin Li and Dongxiao Zhu
-COVID-MobileXpert: On-Device COVID-19 Screening using Snapshots of Chest X-Ray, arXiv:2004.03042, 2020  
+COVID-MobileXpert: COVID-MobileXpert: On-Device COVID-19 Patient Triage and Follow-up using Chest X-rays, arXiv:2004.03042, 2020  
 https://github.com/xinli0928/COVID-Xray
 ```
 
 ```
 @misc{li2020covidmobilexpert,
-    title={COVID-MobileXpert: On-Device COVID-19 Screening using Snapshots of Chest X-Ray},
+    title={COVID-MobileXpert: On-Device COVID-19 Patient Triage and Follow-up using Chest X-rays},
     author={Xin Li and Chengyin Li and Dongxiao Zhu},
     year={2020},
     eprint={2004.03042},
