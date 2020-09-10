@@ -5,7 +5,7 @@ This repository is an implementation of the paper "[COVID-MobileXpert: On-Device
 
 Android App
 -------
-Our Android App is available [here](https://drive.google.com/file/d/1yqNsVHkrrCoo_XYedOOqSUJRnzc0vjIB/view?usp=sharing). Please feel free to have a try. You can directly download the snapshots provided in "Test Cases for App" for testing (click on the "View code").
+Our Android App is available [here](https://drive.google.com/file/d/1yqNsVHkrrCoo_XYedOOqSUJRnzc0vjIB/view?usp=sharing). Please feel free to have a try. You can directly download the images provided in "Test Cases for App" for testing (click on the "View code").
 
 Here are the steps to test with your own CXR images (click on the "View all of README.md"):
 * Download and install our App [here](https://drive.google.com/file/d/1yqNsVHkrrCoo_XYedOOqSUJRnzc0vjIB/view?usp=sharing).
