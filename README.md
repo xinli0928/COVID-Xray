@@ -46,6 +46,8 @@ COVID-MobileXpert Architecture with Three-player KTD Training
 Model Training and Evaluation
 ----
 Codes and learned model parameters are available in the Main folder. Here are the steps for training and testing:
+
+Triage Model:
 * Put the CXR images in the Dataset folder as the following structure:
 
 
@@ -66,6 +68,14 @@ Dataset
 ```
 * Download the pre-trained model [here](https://drive.google.com/file/d/1lgaGtAfdnjnziHSZ0TaYKisYGjwLxebU/view?usp=sharing) and save it into RF_model folder.
 * Run the .ipynb file for training and testing.  
+
+Follow-up Model:
+* Put the COVID-19 CXR images and metadata.csv in the Dataset_FollowUp folder
+* Run the code of severity scoring system to assign the opacity score to each image and save them to metadata.csv
+* Run the feature.ipynb to extract and save features from COVID-19 CXR images.
+* Run the data_generation.ipynb to create and the follow-up dataset.
+* Run the model_followUp.ipynb for model training and testing.
+
 
 On-device Deployment of the COVID-MobileXpert
 ------
