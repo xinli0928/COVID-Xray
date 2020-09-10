@@ -35,7 +35,7 @@ Follow-up Dataset
 ------
 <p><img src="readme/label.png" alt="test" width="600"></p>
 
-We first assign a opacity score S for each COVID-19 positive CXR image in [COVID-19 Image Data Collection](https://github.com/ieee8023/covid-chestxray-dataset) using the scoring system provided by this [paper](https://arxiv.org/abs/2005.11856). The figure shows an example of how we generate CXR image sequences and assign corresponding radiological trajectory labels (i.e., "Worse", "Stable", "Improved"). We collect a total of 159 CXT image squences, the data is split it into training/validation/testing sets with 111/16/32 samples.
+We first assign a opacity score S for each COVID-19 positive CXR image in [COVID-19 Image Data Collection](https://github.com/ieee8023/covid-chestxray-dataset) using the scoring system provided by this [paper](https://arxiv.org/abs/2005.11856). The figure shows an example of how we generate CXR image sequences and assign corresponding radiological trajectory labels (i.e., "Worse", "Stable", "Improved"). We collect a total of 159 CXR image squences, the data is split it into training/validation/testing sets with 111/16/32 samples.
 
 
 COVID-MobileXpert Architecture with Three-player KTD Training
