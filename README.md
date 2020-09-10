@@ -70,11 +70,11 @@ Dataset
 * Run the .ipynb file for triage model training and testing.  
 
 Follow-up Model:
-* Put the COVID-19 CXR images and metadata.csv from [COVID-19 Image Data Collection.](https://github.com/ieee8023/covid-chestxray-dataset) in the Dataset_FollowUp folder
+* Put the COVID-19 CXR images and metadata.csv from [COVID-19 Image Data Collection](https://github.com/ieee8023/covid-chestxray-dataset) in the Dataset_FollowUp folder
 * Run the [code](https://github.com/mlmed/covid-severity) of severity scoring system to assign the opacity score to each image and save them to metadata.csv
 * Run the feature.ipynb to extract and save features from COVID-19 CXR images.
 * Run the data_generation.ipynb to generate CXR image sequences and assign corresponding radiological trajectory labels.
-* Run the model_followUp.ipynb for follow-up model training and testing.
+* Run the model_FollowUp.ipynb for follow-up model training and testing.
 
 
 On-device Deployment of the COVID-MobileXpert
