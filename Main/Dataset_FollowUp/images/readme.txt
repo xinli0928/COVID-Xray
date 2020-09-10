@@ -1,1 +1,1 @@
-Put COVID-19 CXR images here.
+Put the COVID-19 CXR images here.
