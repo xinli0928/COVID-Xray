@@ -19,6 +19,7 @@ Here are the steps to test with your own CXR images (click on the "View all of R
 Live demo
 ------
 [<img src="Demo/CXR_Images_test.png" width="300">](https://www.youtube.com/watch?v=zcU6x0nTlp0)
+[<img src="Demo/Snapshots_test.png" width="300">](https://www.youtube.com/watch?v=zcU6x0nTlp0)
 
 
 Triage Datasets
