@@ -102,7 +102,7 @@ Citation
 ------
 ```
 Xin Li, Chengyin Li and Dongxiao Zhu
-COVID-MobileXpert: COVID-MobileXpert: On-Device COVID-19 Patient Triage and Follow-up using Chest X-rays, arXiv:2004.03042, 2020  
+COVID-MobileXpert: On-Device COVID-19 Patient Triage and Follow-up using Chest X-rays, arXiv:2004.03042, 2020  
 https://github.com/xinli0928/COVID-Xray
 ```
 
